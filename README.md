@@ -14,8 +14,6 @@ This project focuses on visualizing carbon dioxide emissions across the UK based
 - Chen, J., Li, R., & Sun, W. (2016). "Spatial Visualization of Carbon Emissions Using GIS."
 - Additional references include works by Ware (2013), Tufte (2001), and Few (2006).
 
-## 🖥️ Dashboard Preview
-Include a screenshot or a GIF of your dashboard here if possible.
 
 ## 🛠️ Technologies Used
 - **Power BI:** For creating interactive and visually appealing dashboards.
