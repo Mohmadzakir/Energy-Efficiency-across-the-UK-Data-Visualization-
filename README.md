@@ -22,9 +22,6 @@ Include a screenshot or a GIF of your dashboard here if possible.
 - **Data Sources:** CSV files with information on carbon emissions, property types, and energy efficiency.
 - **Graphic Design Principles:** Consistent use of color, alignment, and visual hierarchy.
 
-## 📂 File Structure
-
- Open the `Dashboard.pbix` file in Power BI Desktop.
 
 ## 🖱️ Usage
 - Use filters to view emissions by specific regions or property types.
